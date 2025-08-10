@@ -1,12 +1,4 @@
 Subject,Start Date,Start Time,End Date,End Time,All Day Event,Description,Location,Private,Category,Color ID
-Challenge @ TCF GAMING ARENA,08/07/2025,07:15 PM,08/07/2025,08:15 PM,FALSE,"https://www.pokemon.com/us/pokemon-trainer-club/play-pokemon-tournaments/25-08-006483/
-test description here asdfasdfadf","TCF GAMING ARENA, test address, nan, GA 30253 US",FALSE,Challenge,7
-Challenge @ DRUID'S LAIR,08/08/2025,07:00 PM,08/08/2025,08:00 PM,FALSE,"https://www.pokemon.com/us/pokemon-trainer-club/play-pokemon-tournaments/25-08-002210/
-nan","DRUID'S LAIR, nan, nan, GA 30752 US",FALSE,Challenge,7
-Cup @ ROLL THE BONES,08/09/2025,12:00 PM,08/09/2025,01:00 PM,FALSE,"https://www.pokemon.com/us/pokemon-trainer-club/play-pokemon-tournaments/25-08-003436/
-nan","ROLL THE BONES, nan, nan, GA 31406 US",FALSE,Cup,11
-Challenge @ GUUBUU GAMES,08/09/2025,05:30 PM,08/09/2025,06:30 PM,FALSE,"https://www.pokemon.com/us/pokemon-trainer-club/play-pokemon-tournaments/25-08-007381/
-nan","GUUBUU GAMES, nan, nan, GA 30078 US",FALSE,Challenge,7
 Cup @ GUUBUU HOBBY,08/10/2025,12:00 PM,08/10/2025,01:00 PM,FALSE,"https://www.pokemon.com/us/pokemon-trainer-club/play-pokemon-tournaments/25-08-001315/
 nan","GUUBUU HOBBY, 3334 STONE MOUNTAIN HWY, SNELLVILLE, GA 30078 US",FALSE,Cup,11
 Cup @ ABX COMICS AND GAMES,08/10/2025,02:00 PM,08/10/2025,03:00 PM,FALSE,"https://www.pokemon.com/us/pokemon-trainer-club/play-pokemon-tournaments/25-08-008206/
@@ -23,22 +15,22 @@ Challenge @ THE SPORTS SHACK,08/20/2025,06:30 PM,08/20/2025,07:30 PM,FALSE,"http
 nan","THE SPORTS SHACK, nan, nan, GA 30518 US",FALSE,Challenge,7
 Challenge @ WOLCOW GAMING,08/21/2025,06:00 PM,08/21/2025,07:00 PM,FALSE,"https://www.pokemon.com/us/pokemon-trainer-club/play-pokemon-tournaments/25-08-000225/
 nan","WOLCOW GAMING, nan, nan, GA 30009 US",FALSE,Challenge,7
+Cup @ OLYMPUS CARDS AND GAMES,08/23/2025,01:00 PM,08/23/2025,02:00 PM,FALSE,"https://www.pokemon.com/us/pokemon-trainer-club/play-pokemon-tournaments/25-08-000988/
+nan","OLYMPUS CARDS AND GAMES, nan, nan, GA 30180 US",FALSE,Cup,11
+Cup @ HOBBYTOWN USA,08/23/2025,11:00 AM,08/23/2025,12:00 PM,FALSE,"https://www.pokemon.com/us/pokemon-trainer-club/play-pokemon-tournaments/25-08-008117/
+nan","HOBBYTOWN USA, 840 ERNEST W BARRETT PKWY NW, KENNESAW, GA 30144 US",FALSE,Cup,11
+Challenge @ CARDS HQ,08/23/2025,11:00 AM,08/23/2025,12:00 PM,FALSE,"https://www.pokemon.com/us/pokemon-trainer-club/play-pokemon-tournaments/25-08-000760/
+nan","CARDS HQ, 3101 Cobb Pkwy SE Suite 100, Atlanta, GA 30339 US",FALSE,Challenge,7
 Challenge @ SUPER HEROES COMICS CARDS AND GAMES,08/23/2025,05:30 PM,08/23/2025,06:30 PM,FALSE,"https://www.pokemon.com/us/pokemon-trainer-club/play-pokemon-tournaments/25-08-000807/
 nan","SUPER HEROES COMICS CARDS AND GAMES, 66 BULLSBORO DR, NEWNAN, GA 30263 US",FALSE,Challenge,7
 Challenge @ PRIME TIME GAMING,08/23/2025,03:00 PM,08/23/2025,04:00 PM,FALSE,"https://www.pokemon.com/us/pokemon-trainer-club/play-pokemon-tournaments/25-08-003137/
 nan","PRIME TIME GAMING, 3076 RIVERSIDE DR, MACON, GA 31210 US",FALSE,Challenge,7
-Cup @ OLYMPUS CARDS AND GAMES,08/23/2025,01:00 PM,08/23/2025,02:00 PM,FALSE,"https://www.pokemon.com/us/pokemon-trainer-club/play-pokemon-tournaments/25-08-000988/
-nan","OLYMPUS CARDS AND GAMES, nan, nan, GA 30180 US",FALSE,Cup,11
-Challenge @ CARDS HQ,08/23/2025,11:00 AM,08/23/2025,12:00 PM,FALSE,"https://www.pokemon.com/us/pokemon-trainer-club/play-pokemon-tournaments/25-08-000760/
-nan","CARDS HQ, 3101 Cobb Pkwy SE Suite 100, Atlanta, GA 30339 US",FALSE,Challenge,7
-Cup @ HOBBYTOWN USA,08/23/2025,11:00 AM,08/23/2025,12:00 PM,FALSE,"https://www.pokemon.com/us/pokemon-trainer-club/play-pokemon-tournaments/25-08-008117/
-nan","HOBBYTOWN USA, 840 ERNEST W BARRETT PKWY NW, KENNESAW, GA 30144 US",FALSE,Cup,11
-Challenge @ 1UP GAMES,08/24/2025,02:00 PM,08/24/2025,03:00 PM,FALSE,"https://www.pokemon.com/us/pokemon-trainer-club/play-pokemon-tournaments/25-08-001607/
-nan","1UP GAMES, 265 HWY 53, CALHOUN, GA 30701 US",FALSE,Challenge,7
-Cup @ CARDBOARD CASTLE GAMES,08/24/2025,12:00 PM,08/24/2025,01:00 PM,FALSE,"https://www.pokemon.com/us/pokemon-trainer-club/play-pokemon-tournaments/25-08-005141/
-nan","CARDBOARD CASTLE GAMES, nan, nan, GA 30907 US",FALSE,Cup,11
 Cup @ LEVEL UP ATHENS,08/24/2025,12:00 PM,08/24/2025,01:00 PM,FALSE,"https://www.pokemon.com/us/pokemon-trainer-club/play-pokemon-tournaments/25-08-002830/
 nan","LEVEL UP ATHENS, 8851 MACON HWY, ATHENS, GA 30606 US",FALSE,Cup,11
+Cup @ CARDBOARD CASTLE GAMES,08/24/2025,12:00 PM,08/24/2025,01:00 PM,FALSE,"https://www.pokemon.com/us/pokemon-trainer-club/play-pokemon-tournaments/25-08-005141/
+nan","CARDBOARD CASTLE GAMES, nan, nan, GA 30907 US",FALSE,Cup,11
+Challenge @ 1UP GAMES,08/24/2025,02:00 PM,08/24/2025,03:00 PM,FALSE,"https://www.pokemon.com/us/pokemon-trainer-club/play-pokemon-tournaments/25-08-001607/
+nan","1UP GAMES, 265 HWY 53, CALHOUN, GA 30701 US",FALSE,Challenge,7
 Challenge @ MEEPLE MADNESS,08/26/2025,07:00 PM,08/26/2025,08:00 PM,FALSE,"https://www.pokemon.com/us/pokemon-trainer-club/play-pokemon-tournaments/25-08-006772/
 nan","MEEPLE MADNESS, nan, nan, GA 30542 US",FALSE,Challenge,7
 Challenge @ MEEPLE MADNESS,08/26/2025,07:00 PM,08/26/2025,08:00 PM,FALSE,"https://www.pokemon.com/us/pokemon-trainer-club/play-pokemon-tournaments/25-08-000606/
@@ -59,20 +51,20 @@ Challenge @ HAWK'S NEST GAMING,08/31/2025,01:00 PM,08/31/2025,02:00 PM,FALSE,"ht
 nan","HAWK'S NEST GAMING, 6721 BELLS FERRY RD, WOODSTOCK, GA 30189 US",FALSE,Challenge,7
 Cup @ LAKE HARTWELL COLLECTIBLES,09/02/2025,06:00 PM,09/02/2025,07:00 PM,FALSE,"https://www.pokemon.com/us/pokemon-trainer-club/play-pokemon-tournaments/25-09-000221/
 nan","LAKE HARTWELL COLLECTIBLES, 150 W FRANKLIN ST, HARTWELL, GA 30643 US",FALSE,Cup,11
-Challenge @ THE WASTELAND GAMING,09/05/2025,07:30 PM,09/05/2025,08:30 PM,FALSE,"https://www.pokemon.com/us/pokemon-trainer-club/play-pokemon-tournaments/25-09-002381/
-nan","THE WASTELAND GAMING, 3650 SATELLITE BLVD, DULUTH, GA 30096 US",FALSE,Challenge,7
 Challenge @ DRUID'S LAIR,09/05/2025,07:00 PM,09/05/2025,08:00 PM,FALSE,"https://www.pokemon.com/us/pokemon-trainer-club/play-pokemon-tournaments/25-09-002233/
 nan","DRUID'S LAIR, nan, nan, GA 30752 US",FALSE,Challenge,7
+Challenge @ THE WASTELAND GAMING,09/05/2025,07:30 PM,09/05/2025,08:30 PM,FALSE,"https://www.pokemon.com/us/pokemon-trainer-club/play-pokemon-tournaments/25-09-002381/
+nan","THE WASTELAND GAMING, 3650 SATELLITE BLVD, DULUTH, GA 30096 US",FALSE,Challenge,7
 Cup @ MEEPLE MADNESS,09/06/2025,12:00 PM,09/06/2025,01:00 PM,FALSE,"https://www.pokemon.com/us/pokemon-trainer-club/play-pokemon-tournaments/25-09-003028/
 nan","MEEPLE MADNESS, nan, nan, GA 30542 US",FALSE,Cup,11
 Challenge @ GALACTIC COMICS & GAMES,09/06/2025,01:00 PM,09/06/2025,02:00 PM,FALSE,"https://www.pokemon.com/us/pokemon-trainer-club/play-pokemon-tournaments/25-09-002129/
 nan","GALACTIC COMICS & GAMES, 21 E VINE ST, STATESBORO, GA 30458 US",FALSE,Challenge,7
-Challenge @ ROLL THE BONES,09/06/2025,02:00 PM,09/06/2025,03:00 PM,FALSE,"https://www.pokemon.com/us/pokemon-trainer-club/play-pokemon-tournaments/25-09-002280/
-nan","ROLL THE BONES, nan, nan, GA 31406 US",FALSE,Challenge,7
-Cup @ THE COOL PLACE,09/06/2025,01:00 PM,09/06/2025,02:00 PM,FALSE,"https://www.pokemon.com/us/pokemon-trainer-club/play-pokemon-tournaments/25-09-003201/
-nan","THE COOL PLACE, 7830 VETERANS PKWY, COLUMBUS, GA 31909 US",FALSE,Cup,11
 Challenge @ HOBBYTOWN USA,09/06/2025,02:30 PM,09/06/2025,03:30 PM,FALSE,"https://www.pokemon.com/us/pokemon-trainer-club/play-pokemon-tournaments/25-09-003198/
 nan","HOBBYTOWN USA, 840 ERNEST W BARRETT PKWY NW, KENNESAW, GA 30144 US",FALSE,Challenge,7
+Cup @ THE COOL PLACE,09/06/2025,01:00 PM,09/06/2025,02:00 PM,FALSE,"https://www.pokemon.com/us/pokemon-trainer-club/play-pokemon-tournaments/25-09-003201/
+nan","THE COOL PLACE, 7830 VETERANS PKWY, COLUMBUS, GA 31909 US",FALSE,Cup,11
+Challenge @ ROLL THE BONES,09/06/2025,02:00 PM,09/06/2025,03:00 PM,FALSE,"https://www.pokemon.com/us/pokemon-trainer-club/play-pokemon-tournaments/25-09-002280/
+nan","ROLL THE BONES, nan, nan, GA 31406 US",FALSE,Challenge,7
 "Challenge @ SUPER GAMES, INC.",09/08/2025,07:00 PM,09/08/2025,08:00 PM,FALSE,"https://www.pokemon.com/us/pokemon-trainer-club/play-pokemon-tournaments/25-09-002225/
 nan","SUPER GAMES, INC., 13093 GA-9, MILTON, GA 30004 US",FALSE,Challenge,7
 Challenge @ THE SPORTS SHACK,09/10/2025,06:30 PM,09/10/2025,07:30 PM,FALSE,"https://www.pokemon.com/us/pokemon-trainer-club/play-pokemon-tournaments/25-09-002230/
@@ -93,10 +85,10 @@ Challenge @ 1UP GAMES,09/21/2025,02:00 PM,09/21/2025,03:00 PM,FALSE,"https://www
 nan","1UP GAMES, 265 HWY 53, CALHOUN, GA 30701 US",FALSE,Challenge,7
 Challenge @ CARDBOARD CASTLE GAMES,09/24/2025,06:30 PM,09/24/2025,07:30 PM,FALSE,"https://www.pokemon.com/us/pokemon-trainer-club/play-pokemon-tournaments/25-09-003231/
 nan","CARDBOARD CASTLE GAMES, nan, nan, GA 30907 US",FALSE,Challenge,7
-Challenge @ SUPER HEROES COMICS CARDS AND GAMES,09/27/2025,05:30 PM,09/27/2025,06:30 PM,FALSE,"https://www.pokemon.com/us/pokemon-trainer-club/play-pokemon-tournaments/25-09-000642/
-nan","SUPER HEROES COMICS CARDS AND GAMES, 66 BULLSBORO DR, NEWNAN, GA 30263 US",FALSE,Challenge,7
 Cup @ MEEPLE MADNESS,09/27/2025,12:00 PM,09/27/2025,01:00 PM,FALSE,"https://www.pokemon.com/us/pokemon-trainer-club/play-pokemon-tournaments/25-09-002128/
 nan","MEEPLE MADNESS, nan, nan, GA 30542 US",FALSE,Cup,11
+Challenge @ SUPER HEROES COMICS CARDS AND GAMES,09/27/2025,05:30 PM,09/27/2025,06:30 PM,FALSE,"https://www.pokemon.com/us/pokemon-trainer-club/play-pokemon-tournaments/25-09-000642/
+nan","SUPER HEROES COMICS CARDS AND GAMES, 66 BULLSBORO DR, NEWNAN, GA 30263 US",FALSE,Challenge,7
 Challenge @ LEVEL UP ATHENS,09/28/2025,02:00 PM,09/28/2025,03:00 PM,FALSE,"https://www.pokemon.com/us/pokemon-trainer-club/play-pokemon-tournaments/25-09-003046/
 nan","LEVEL UP ATHENS, 8851 MACON HWY, ATHENS, GA 30606 US",FALSE,Challenge,7
 Challenge @ MEEPLE MADNESS,09/30/2025,07:00 PM,09/30/2025,08:00 PM,FALSE,"https://www.pokemon.com/us/pokemon-trainer-club/play-pokemon-tournaments/25-09-000473/
